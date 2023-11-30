@@ -1,9 +1,12 @@
 # Springboot crac 
 - A checkpoint snapshot jar application
+https://foojay.io/today/springboot-3-2-crac/
 
 This is an example of Spring Boot [Getting Started](https://github.com/spring-guides/gs-spring-boot/tree/main/initial) modified to work on OpenJDK CRaC, which consists only in using Spring Boot 3.2+ and adding the `org.crac:crac` dependency (version `1.4.0` or later).
 
 ## Building
+Use AZUL jdk 21
+
 
 Use Maven to build
 ```
